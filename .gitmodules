@@ -1,0 +1,3 @@
+[submodule "playbook"]
+	path = playbook
+	url = https://github.com/adam190/playbooks
